@@ -3,8 +3,7 @@
 
 <h4 align="justify"> &emsp; <i>Mechatronic Engineer graduated at the University of Brasilia, I am extremely motivated, disciplined and communicative. I am constantly developing my skills and looking for ever-increasing professional growth. I have experience and a lot of interest in entrepreneurship and in the areas of building/residential automation. 
   
-&emsp; My Github profile features my expertise in hardware and software development for college projects, envolving embedded systems and java applications. I have worked on projects related to software development, sensor interfacing, data acquisition and network connection </i></h4>
-
+&emsp; My Github profile features my expertise in hardware and software development for college projects, envolving embedded systems and java applications. I have worked on projects related to sensor interfacing, data acquisition, network validation and operational systems. </i></h4>
 
 - 📫 How to reach me **abrahamicunha@gmail.com**
 
