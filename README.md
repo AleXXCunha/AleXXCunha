@@ -1,7 +1,7 @@
 <h1 align="center">Speak, friend, and enter! I'm Alexandre A. P. Cunha 👋</h1>
 <h3 align="center">A passionate mechatronic engineer in search for ever-increasing professional growth</h3>
 
-<h4 align="justify"> &emsp; <i>Mechatronic Engineer graduated at the University of Brasilia, I am extremely motivated, disciplined and communicative. I am constantly developing my skills and looking for ever-increasing professional growth. I have experience and a lot of interest in entrepreneurship and in the areas of building/residential automation. 
+<h4 align="left"> &emsp; <i>Mechatronic Engineer graduated at the University of Brasilia, I am extremely motivated, disciplined and communicative. I am constantly developing my skills and looking for ever-increasing professional growth. I have experience and a lot of interest in entrepreneurship and in the areas of building/residential automation. 
   
 &emsp; My Github profile features my expertise in hardware and software development for college projects, envolving embedded systems and java applications. I have worked on projects related to sensor interfacing, data acquisition, network validation and operational systems. </i></h4>
 
