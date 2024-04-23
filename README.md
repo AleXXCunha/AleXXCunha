@@ -1,5 +1,5 @@
 # Speak, friend, and enter! 👋
-### A passionate mechatronic engineer in search for ever-increasing professional growth
+### A passionate control and automation engineer in search for ever-increasing professional growth
 
 <i>Control and Automation Engineer graduated at the University of Brasilia, I am extremely motivated, disciplined and communicative. I am constantly developing my skills and looking for ever-increasing professional growth. I have experience and a lot of interest in entrepreneurship and in the areas of building/residential automation. 
   
