@@ -1,7 +1,7 @@
 # Speak, friend, and enter! 👋
 ### A passionate mechatronic engineer in search for ever-increasing professional growth
 
-<i>Mechatronic Engineer graduated at the University of Brasilia, I am extremely motivated, disciplined and communicative. I am constantly developing my skills and looking for ever-increasing professional growth. I have experience and a lot of interest in entrepreneurship and in the areas of building/residential automation. 
+<i>Control and Automation Engineer graduated at the University of Brasilia, I am extremely motivated, disciplined and communicative. I am constantly developing my skills and looking for ever-increasing professional growth. I have experience and a lot of interest in entrepreneurship and in the areas of building/residential automation. 
   
 My Github profile features my expertise in hardware and software development for college projects, envolving embedded systems and java applications. I have worked on projects related to sensor interfacing, data acquisition, network and operational systems. </i>
 
